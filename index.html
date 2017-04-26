@@ -6,7 +6,6 @@
  <![endif]--><script>
 </script>
 </head>
-
 <body ng-controller="MainController as main">
     <ng-hello interval={{interval}}></ng-hello>
     <header class=header>
@@ -16,7 +15,7 @@
             <div class="logocircle darkbgcolor"><a href="https://www.kaggle.com/johnnymedhanie" rel=me target=_blank><i class="logo lightcolor ultradarkbgcolor fa fa-database"></i></a></div>
             <div class="logocircle darkbgcolor"><a href=https://hackerrank.com/johnnymedhanie rel=me target=_blank><i class="logo lightcolor ultradarkbgcolor fa fa-code"></i></a></div>
             <div class="logocircle darkbgcolor"><a href=https://github.com/johnnymedhanie rel=me target=_blank><i class="logo lightcolor ultradarkbgcolor fa fa-github-alt"></i></a></div>
-            <div class=profileimg-container><img ng-repeat="i in main.ivesimages" class="profileimg u-photo" ng-src={{i}} ng-class="{'shown': main.currentIves === $index}"> <i ng-click=main.goDown() class="darkcolor fa fa-chevron-down"></i></div>
+            <div class=profileimg-container><img src="lib/thatsme.jpg"> <i ng-click=main.goDown() class="darkcolor fa fa-chevron-down"></i></div>
         </div>
     </header>
     <div class=main>
