@@ -4,11 +4,12 @@ I'm a software engineer at Amazon, working on Alexa Skills. Previously I was a s
 
 ## Previously...
 
-- I was an Software Engineer Intern @ Twitter, making an impact on the Real Time Storage Group 
-- I was an Software Engineer Intern @ Cisco, optimizing in house tooling on the Metrics and Monitoring Team in Cloud Infrastructure.
+- I was a Software Engineer Intern @ Twitter, making an impact on the Real Time Storage Group 
+- I was a Software Engineer Intern @ Cisco, optimizing in house tooling on the Metrics and Monitoring Team in Cloud Infrastructure.
 
 ## In my free time
-
+- I'm usually out running! on [Strava](https://www.strava.com/athletes/40922540)
+- mixing songs or just listening on [Spotify](https://open.spotify.com/user/johnnymedhanie?si=edddbb2c75884ee1)
 
 
 ## Reach out to me via
